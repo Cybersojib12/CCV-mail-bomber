@@ -1,1 +1,18 @@
 # CCV-mail-bomber
+
+apt update 
+
+apt upgrade 
+
+pkg install python 
+
+pkg install python2 
+
+pkg install git 
+
+git clone https://github.com/Cybersojib12/CCV-mail-bomber
+
+
+cd CCV-mail-bomber
+
+python CCV-mail-bomber.py
